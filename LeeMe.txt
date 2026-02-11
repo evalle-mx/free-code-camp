@@ -60,3 +60,6 @@ Mi-app:
 
   # Calculadora Interactiva [03:52:03 ]
   https://youtu.be/6Jfk8ic3KVk?t=13926
+
+  # Aplicacion de Tareas (TODO) [05:26:44]
+  https://youtu.be/6Jfk8ic3KVk?t=19604
