@@ -60,6 +60,12 @@ Mi-app:
 
   # Calculadora Interactiva [03:52:03 ]
   https://youtu.be/6Jfk8ic3KVk?t=13926
+   
+   - https://www.npmjs.com/package/mathjs
 
   # Aplicacion de Tareas (TODO) [05:26:44]
   https://youtu.be/6Jfk8ic3KVk?t=19604
+
+  - https://react-icons.github.io/react-icons/
+  - https://www.npmjs.com/package/uuid
+  - 
