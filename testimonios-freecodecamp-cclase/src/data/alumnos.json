@@ -1,0 +1,26 @@
+[
+  {
+    "nombre": "Emma Bostian",
+    "pais": "Suecia",
+    "nomimage": "emma",
+    "cargo": "Ingeniera de Software",
+    "empresa": "Spotify",
+    "testimonio": "Siempre he tenido problemas para aprender JavaScript. He tomado muchos cursos, pero el **curso de freeCodeCamp** fue el que se quedó.\n Estudiar JavaScript, así como estructuras de datos y algoritmos en freeCodeCamp me dio las habilidades y la confianza que necesitaba para conseguir el trabajo de mis sueños como ingeniera de software en Spotify."
+  },
+  {
+    "nombre": "Sarah Chima",
+    "pais": "Nigeria",
+    "nomimage": "sarah",
+    "cargo": "Ingeniera de Aplicaciones",
+    "empresa": "ChatDesk",
+    "testimonio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius minima **reiciendis eveniet natus** omnis corporis nesciunt aut esse sunt obcaecati eaque temporibus quis animi cumque distinctio numquam perspiciatis, rem asperiores!"
+  },
+  {
+    "nombre": "Shawn Wang",
+    "pais": "Singapur",
+    "nomimage": "shawn",
+    "cargo": "Desarrollador de Software",
+    "empresa": "Amazon",
+    "testimonio": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Eius minima reiciendis eveniet natus omnis corporis nesciunt aut esse sunt obcaecati eaque temporibus quis animi cumque **distinctio numquam perspiciatis**, rem asperiores!"
+  }
+]
